@@ -21,8 +21,8 @@ Machine Learning major (BYU, 4.00 GPA) with a research focus on training dynamic
 
 | Project | Description | Tech | Link |
 |---|---|---|---|
+| **Online Batch Selection & Grokking** | Benchmarked 4 online batch selection methods (Uniform, RHOLoss, DivBS, Bayesian) against grokking dynamics in Transformers and MLPs. | Python, PyTorch | [Paper](https://drive.google.com/file/d/1Jd27JEVY3jPxOSXhQLjMi-KYFXuaFXe3/view?usp=drive_link) · [Repo](https://github.com/PJHancock/Grokking.git) |
 | **RHOLoss Method Comparisons** | Identified reproducibility limitations in the RHOLoss curriculum learning method and proposed 3 novel variants, evaluated on CIFAR-10/100 with ResNet-18. | Python, PyTorch | [Paper](https://drive.google.com/file/d/19nnlh0Xkzsi1euaiV0Try8BbO-4hZgZP/view?usp=drive_link) · [Repo](https://github.com/lukegreen109/Online-Batch-Selection) |
-| **Online Batch Selection & Grokking** | Benchmarked 4 online batch selection methods (Uniform, RHOLoss, DivBS, Bayesian) against grokking dynamics in Transformers and MLPs. | Python, PyTorch | [Paper](https://drive.google.com/file/d/1Jd27JEVY3jPxOSXhQLjMi-KYFXuaFXe3/view?usp=drive_link) |
 | **ML Model Evaluation** | Educational resource walking through how to evaluate and interpret ML model performance. | Jupyter, Python | [Repo](https://github.com/PJHancock/ML_Model_Evaluation) |
 
 ## Software Projects
