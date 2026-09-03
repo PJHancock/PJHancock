@@ -34,16 +34,9 @@ Machine Learning major (BYU, 4.00 GPA) with a research focus on training dynamic
 
 ## Personal Projects
 
-*More coming soon — this section is reserved for independent projects outside of coursework and research.*
-
-<!--
-Add new personal projects here in the same table format, e.g.:
-| **Project Name** | One-line description. | Tech used | [Repo](link) |
--->
-
 | Project | Description | Tech | Link |
 |---|---|---|---|
-| _Coming soon_ | | | |
+| MIMIC | MIMIC learns manipulation skills from narrated demonstration video and retargets them onto a robot's existing skill library for execution. | Python | [Repo](https://github.com/PJHancock/Mimic) |
 
 ## Skills
 
