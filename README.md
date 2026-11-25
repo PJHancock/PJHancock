@@ -25,18 +25,21 @@ Machine Learning major (BYU, 4.00 GPA) with a research focus on training dynamic
 | **RHOLoss Method Comparisons** | Identified reproducibility limitations in the RHOLoss curriculum learning method and proposed 3 novel variants, evaluated on CIFAR-10/100 with ResNet-18. | Python, PyTorch | [Paper](https://drive.google.com/file/d/19nnlh0Xkzsi1euaiV0Try8BbO-4hZgZP/view?usp=drive_link) · [Repo](https://github.com/lukegreen109/Online-Batch-Selection) |
 | **ML Model Evaluation** | Educational resource walking through how to evaluate and interpret ML model performance. | Jupyter, Python | [Repo](https://github.com/PJHancock/ML_Model_Evaluation) |
 
+## Personal Projects
+
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| **Storied** | A personal journaling app for saving written memories and local photo, audio, and video attachments, with optional on-device integrations and AI summaries. | React, Swift | [Repo](https://github.com/PJHancock/Storied) |
+| **NBATracker** | Explore NBA player-tracking data with interactive court visualizations, event analysis, and trajectory review tools. | Python, Jupyter | [Repo](https://github.com/PJHancock/NBA-Tracking) |
+| **LaserRL** | A continuous laser-optics puzzle environment and PPO experiment suite for studying how training-pose diversity affects solving unseen puzzles. | Python, Gymnasium, Stable-Baselines3 | — |
+| **MIMIC** | MIMIC learns manipulation skills from narrated demonstration video and retargets them onto a robot's existing skill library for execution. | Python | [Repo](https://github.com/PJHancock/Mimic) |
+
 ## Software Projects
 
 | Project | Description | Tech | Link |
 |---|---|---|---|
 | **Chess** | Fully-operational chess application built for BYU CS 240. | Java | [Repo](https://github.com/PJHancock/chess) |
 | **Introduction to Parsing** | Walkthrough of parsing fundamentals for those learning compiler/parser design. | C++ | [Repo](https://github.com/PJHancock/Introduction-to-parsing) |
-
-## Personal Projects
-
-| Project | Description | Tech | Link |
-|---|---|---|---|
-| MIMIC | MIMIC learns manipulation skills from narrated demonstration video and retargets them onto a robot's existing skill library for execution. | Python | [Repo](https://github.com/PJHancock/Mimic) |
 
 ## Skills
 
