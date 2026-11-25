@@ -10,7 +10,7 @@
 
 ## About
 
-Machine Learning major (BYU, 4.00 GPA) with a research focus on training dynamics, computer vision, and reinforcement learning. Currently a Reinforcement Learning Research Assistant at BYU's Adept Lab. Previous experience spans computer vision model optimization at Altamira Technologies, curriculum learning research at BYU's Department of Mathematics, and computer vision work at Huntington Ingalls Industries and the AFIT Autonomy & Navigation Technology Lab.
+Machine Learning major (BYU, 4.00 GPA) with a research focus on reinforcement learning, training dynamics, and computer vision. Currently a Reinforcement Learning Research Assistant at BYU's Adept Lab. Previous experience spans computer vision model optimization at Altamira Technologies, curriculum learning research at BYU's Department of Mathematics, and computer vision work at Huntington Ingalls Industries and the AFIT Autonomy & Navigation Technology Lab.
 
 - BS Machine Learning, Minor in Mathematics — Brigham Young University (Apr 2027)
 - National Merit Scholar Semifinalist | 4x BYU Full Tuition Academic Scholar
