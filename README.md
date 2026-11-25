@@ -29,8 +29,8 @@ Machine Learning major (BYU, 4.00 GPA) with a research focus on reinforcement le
 
 | Project | Description | Tech | Link |
 |---|---|---|---|
-| **Storied** | A personal journaling app for saving written memories and local photo, audio, and video attachments, with optional on-device integrations and AI summaries. | React, Swift | [Repo](https://github.com/PJHancock/Storied) |
-| **NBATracker** | Explore NBA player-tracking data with interactive court visualizations, event analysis, and trajectory review tools. | Python, Jupyter | [Repo](https://github.com/PJHancock/NBA-Tracking) |
+| **Storied** | Built AI features for a journaling app, including grounded memory summaries and on-device semantic search using sentence embeddings over locally extracted photo and video clues. | React, Swift | [Repo](https://github.com/PJHancock/Storied) |
+| **NBATracker** | Developing supervised and reinforcement-learning models to predict NBA player actions from tracking data, supported by trajectory preprocessing, action-labeling, reward signals, and interactive court-review tools. | Python, Jupyter | [Repo](https://github.com/PJHancock/NBA-Tracking) |
 | **LaserRL** | A continuous laser-optics puzzle environment and PPO experiment suite for studying how training-pose diversity affects solving unseen puzzles. | Python, Gymnasium, Stable-Baselines3 | [Repo](https://github.com/PJHancock/LaserRL) |
 | **MIMIC** | MIMIC learns manipulation skills from narrated demonstration video and retargets them onto a robot's existing skill library for execution. | Python | [Repo](https://github.com/PJHancock/Mimic) |
 
